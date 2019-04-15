@@ -1,0 +1,28 @@
+{
+  "name": "person",
+  "version": "1.0.0",
+  "description": "Simple DB example program illustrating the CRUD interface",
+  "main": "0_init",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonioMunozCarmona/person.git"
+  },
+  "keywords": [
+    "DB",
+    "sequelize",
+    "Sqlite3"
+  ],
+  "author": "Antonio Muñoz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntonioMunozCarmona/person/issues"
+  },
+  "homepage": "https://github.com/AntonioMunozCarmona/person#readme",
+  "dependencies": {
+    "sequelize": "^5.5.0",
+    "sqlite3": "^4.0.6"
+  }
+}
